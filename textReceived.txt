@@ -1,0 +1,9 @@
+{
+"QueryResult":{
+	"result_type":"NinaDoSpeechReco",
+	"mrec_results":{
+		"confidences":[984,16,0],"final_response":1,
+		"transcriptions":["I like music","I like to music","I like"]
+		}
+	}
+}
