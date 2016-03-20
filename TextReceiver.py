@@ -1,6 +1,6 @@
 import json
 #the next two are just for here
-import pygame
+import pyaudio
 import time
 import speech_recognition as sr
 

@@ -1,1 +1,1 @@
-from TextReciever import *
+from TextReceiver import *
